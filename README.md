@@ -1,2 +1,3 @@
 # Image_Processing
-Image Processing Labs
+Lab 1 task 1
+
